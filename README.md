@@ -14,8 +14,12 @@
 
 ## 🚀 Usage
 
-1. Copy the script to a stable path:
+- Run script:
 
    ```bash
    wget -qO- https://raw.githubusercontent.com/ohmydevops/ohmynet/main/ohmynet.sh | bash
    ```
+
+- It should be:
+
+![sample](./screenshot.png)
